@@ -1,4 +1,4 @@
-import ExpenseItem from "./components/ExpenseItem";
+import ExpenseItem from "./components/Expense/ExpenseItem";
 
 import NewExpense from "./components/NewExpense/NewExpense";
 
